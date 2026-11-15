@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIconFile</key><string>LogoLicht</string>
+    <key>CFBundleURLTypes</key>
+    <array><dict><key>CFBundleURLName</key><string>local.logolicht.mac.shortcuts</string>
+    <key>CFBundleURLSchemes</key><array><string>logolicht</string></array></dict></array>
+    <key>CFBundleDisplayName</key><string>LogoLight</string>
+    <key>LSUIElement</key><true/>
+    <key>NSLocationUsageDescription</key><string>LogoLight uses location permission to read the current Wi-Fi network name for your lighting rule.</string>
+    <key>NSLocationWhenInUseUsageDescription</key><string>LogoLight uses location permission to read the current Wi-Fi network name for your lighting rule.</string>
+    <key>CFBundleExecutable</key><string>LogoLicht</string>
+    <key>CFBundleIdentifier</key><string>local.logolicht.mac</string>
+    <key>CFBundleName</key><string>LogoLight</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>25.2</string>
+    <key>CFBundleVersion</key><string>28</string>
+    <key>LSMinimumSystemVersion</key><string>25.2</string>
+    <key>NSHighResolutionCapable</key><true/>
+</dict>
+</plist>
