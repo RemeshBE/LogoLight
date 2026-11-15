@@ -1,4 +1,5 @@
 # LogoLight
+<img src="LogoLight-icon.png" alt="LogoLight app icon" width="128">
 
 LogoLight is a native macOS menu bar app for controlling the illuminated Apple logo on compatible MacBook Pro models with a PROLED XDR display.
 
